@@ -1,4 +1,4 @@
-# ¡Hola! Soy Alejandro Dolz 👋
+# ¡Hola! Soy Alejandro Dolz
 
 **Estudiante de 1º DAM | Técnico SMR | Apasionado del Software Core y Backend**
 
@@ -6,7 +6,7 @@ Tengo un perfil técnico sólido que combina la administración de sistemas y re
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 Resumen de mi stack tecnológico, integrando mi base de sistemas con el desarrollo de software y datos:
 
@@ -31,17 +31,17 @@ Resumen de mi stack tecnológico, integrando mi base de sistemas con el desarrol
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 He organizado mis trabajos en repositorios especializados para cada área de desarrollo:
 
 | Repositorio | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
-| **[Desarrollo Java](#)** | Colección de proyectos y algoritmos en Java. Incluye mi **Gestor de Ficheros Binarios** para persistencia de flujos de datos (`DataStream`) y manejo de excepciones. | `Java`, `File I/O`, `Streams` |
-| **[Lenguajes de Marcas](#)** | Proyectos de estructuración de información. Destaca el sitio **"Archivo Rebelde"**, con uso estricto de HTML5 semántico y validación de datos mediante RegEx. | `HTML5`, `RegEx`, `W3C` |
-| **[Proyecto Personal](#)** | [Breve descripción de tu proyecto personal actual y el problema que resuelve]. | `Tech1`, `Tech2` |
+| **[Desarrollo Java](https://github.com/Adolz05/java-projects)** | Colección de proyectos en Java. Incluye mi **Gestor de Ficheros Binarios** para persistencia de flujos de datos (`DataStream`) y manejo de excepciones. | `Java`, `File I/O`, `Streams` |
+| **[Lenguajes de Marcas](https://github.com/Adolz05/lenguaje-de-marcas)** | Proyectos de estructuración de información. Destaca el sitio **"Archivo Rebelde"**, con uso de HTML5 semántico y validación de datos mediante RegEx. | `HTML5`, `RegEx`, `W3C` |
+| **[Comunidades Gamers](https://github.com/Adolz05/comunidad-gamers)** | Diseño integral del backend y arquitectura de red. Incluye modelado MySQL con consultas complejas y planificación de servidores Linux Cloud. | `MySQL`, `Arquitectura Cloud`, `Notion` |
 
 ---
 
-## 📬 Contacto
+## Contacto
 - 📧 Email: alejandrodolzgaya@gmail.com
