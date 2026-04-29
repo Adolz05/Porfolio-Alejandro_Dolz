@@ -1,4 +1,4 @@
-# ¡Hola! [cite_start]Soy Alejandro Dolz 👋
+# ¡Hola! Soy Alejandro Dolz 👋
 
 **Estudiante de 1º DAM | Técnico SMR | Apasionado del Software Core y Backend**
 
