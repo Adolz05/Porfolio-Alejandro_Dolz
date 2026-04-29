@@ -42,11 +42,6 @@ A continuación, muestro mis proyectos académicos y personales más relevantes,
 
 ---
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de [Tu Usuario]](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=radical)
-
----
-
 ## 📬 Cómo contactarme
-- 📧 Email: [Tu correo electrónico]
-- 💼 LinkedIn: [Enlace a tu perfil de LinkedIn, si tienes]
+- 📧 Email: alejandrodolzgaya@gmail.com
+
