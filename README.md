@@ -2,7 +2,7 @@
 
 **Estudiante de 1º DAM | Técnico SMR | Apasionado del Software Core y Backend**
 
-[cite_start]Tengo un perfil técnico sólido que combina la administración de sistemas y redes (SMR) con el desarrollo de aplicaciones (DAM)[cite: 8]. Me apasiona la programación pura, la lógica y la estructuración de datos. Mi objetivo es construir sistemas robustos y eficientes "bajo el capó", centrándome en la lógica de negocio y alejándome del diseño web para enfocarme en el desarrollo core y backend.
+[cite_start]Tengo un perfil técnico sólido que combina la administración de sistemas y redes (SMR) con el desarrollo de aplicaciones (DAM). Me apasiona la programación pura, la lógica y la estructuración de datos. Mi objetivo es construir sistemas robustos y eficientes "bajo el capó", centrándome en la lógica de negocio y alejándome del diseño web para enfocarme en el desarrollo core y backend.
 
 ---
 
